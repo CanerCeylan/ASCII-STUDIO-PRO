@@ -62,7 +62,7 @@ py -m pip install python-vlc tkinterdnd2
 
 1. Python 3.10+ kurun.
 2. Yukarıdaki gerekli paketleri yükleyin.
-3. `ASCII_STUDIO_PRO_FAST.py` dosyasını README ile aynı klasöre koyun.
+3. `ASCII_STUDIO_PRO_FAST.py` dosyasını bir klasöre koyun.
 4. PowerShell veya Komut İstemi'nde klasöre gidip çalıştırın:
 
 ```powershell
